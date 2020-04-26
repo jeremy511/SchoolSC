@@ -8,7 +8,7 @@
         <div class="row">
             <div class=" articulo col-sm-12 col-md-12 col-lg-12 ">
 
-                <p id="school-name">Welcome, Elena
+                <p id="school-name">Welcome, Elen
 
                 </p>
             </div>
